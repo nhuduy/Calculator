@@ -1,0 +1,13 @@
+C:\Users\Andy\OneDrive\Study\Excercise\C#\Windows Forms\Repositories\Caculator\Caculator\Caculator\bin\Debug\Caculator.exe
+C:\Users\Andy\OneDrive\Study\Excercise\C#\Windows Forms\Repositories\Caculator\Caculator\Caculator\bin\Debug\Caculator.pdb
+C:\Users\Andy\OneDrive\Study\Excercise\C#\Windows Forms\Repositories\Caculator\Caculator\Caculator\obj\Debug\Caculator.csprojAssemblyReference.cache
+C:\Users\Andy\OneDrive\Study\Excercise\C#\Windows Forms\Repositories\Caculator\Caculator\Caculator\obj\Debug\Caculator.Properties.Resources.resources
+C:\Users\Andy\OneDrive\Study\Excercise\C#\Windows Forms\Repositories\Caculator\Caculator\Caculator\obj\Debug\Caculator.csproj.GenerateResource.cache
+C:\Users\Andy\OneDrive\Study\Excercise\C#\Windows Forms\Repositories\Caculator\Caculator\Caculator\obj\Debug\Caculator.csproj.CoreCompileInputs.cache
+C:\Users\Andy\OneDrive\Study\Excercise\C#\Windows Forms\Repositories\Caculator\Caculator\Caculator\obj\Debug\Caculator.exe
+C:\Users\Andy\OneDrive\Study\Excercise\C#\Windows Forms\Repositories\Caculator\Caculator\Caculator\obj\Debug\Caculator.pdb
+C:\Users\Andy\OneDrive\Study\Excercise\C#\Windows Forms\Repositories\Caculator\Caculator\Caculator\bin\Debug\Caculator.exe.manifest
+C:\Users\Andy\OneDrive\Study\Excercise\C#\Windows Forms\Repositories\Caculator\Caculator\Caculator\bin\Debug\Caculator.application
+C:\Users\Andy\OneDrive\Study\Excercise\C#\Windows Forms\Repositories\Caculator\Caculator\Caculator\obj\Debug\Caculator.FrmMain.resources
+C:\Users\Andy\OneDrive\Study\Excercise\C#\Windows Forms\Repositories\Caculator\Caculator\Caculator\obj\Debug\Caculator.exe.manifest
+C:\Users\Andy\OneDrive\Study\Excercise\C#\Windows Forms\Repositories\Caculator\Caculator\Caculator\obj\Debug\Caculator.application

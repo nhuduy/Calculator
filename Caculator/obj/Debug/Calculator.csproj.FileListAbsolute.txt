@@ -1,0 +1,13 @@
+C:\Users\Andy\OneDrive\Study\Excercise\C#\Windows Forms\Repositories\Caculator\Caculator\Caculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Andy\OneDrive\Study\Excercise\C#\Windows Forms\Repositories\Caculator\Caculator\Caculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Andy\OneDrive\Study\Excercise\C#\Windows Forms\Repositories\Caculator\Caculator\Caculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Andy\OneDrive\Study\Excercise\C#\Windows Forms\Repositories\Caculator\Caculator\Caculator\obj\Debug\Calculator.FrmMain.resources
+C:\Users\Andy\OneDrive\Study\Excercise\C#\Windows Forms\Repositories\Caculator\Caculator\Caculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Andy\OneDrive\Study\Excercise\C#\Windows Forms\Repositories\Caculator\Caculator\Caculator\bin\Debug\Calculator.exe.manifest
+C:\Users\Andy\OneDrive\Study\Excercise\C#\Windows Forms\Repositories\Caculator\Caculator\Caculator\bin\Debug\Calculator.application
+C:\Users\Andy\OneDrive\Study\Excercise\C#\Windows Forms\Repositories\Caculator\Caculator\Caculator\bin\Debug\Calculator.exe
+C:\Users\Andy\OneDrive\Study\Excercise\C#\Windows Forms\Repositories\Caculator\Caculator\Caculator\bin\Debug\Calculator.pdb
+C:\Users\Andy\OneDrive\Study\Excercise\C#\Windows Forms\Repositories\Caculator\Caculator\Caculator\obj\Debug\Calculator.exe.manifest
+C:\Users\Andy\OneDrive\Study\Excercise\C#\Windows Forms\Repositories\Caculator\Caculator\Caculator\obj\Debug\Calculator.application
+C:\Users\Andy\OneDrive\Study\Excercise\C#\Windows Forms\Repositories\Caculator\Caculator\Caculator\obj\Debug\Calculator.exe
+C:\Users\Andy\OneDrive\Study\Excercise\C#\Windows Forms\Repositories\Caculator\Caculator\Caculator\obj\Debug\Calculator.pdb
